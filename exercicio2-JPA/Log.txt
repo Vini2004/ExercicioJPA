@@ -1,0 +1,33 @@
+mai. 15, 2023 3:14:47 PM br.com.entidades.ManyToOne main
+INFORMAÇÕES: Log de informação
+mai. 15, 2023 3:14:47 PM br.com.entidades.ManyToOne main
+ADVERTÊNCIA: Log de Aviso
+mai. 15, 2023 3:14:47 PM br.com.entidades.ManyToOne main
+GRAVE: Log Severo
+mai. 15, 2023 3:15:53 PM br.com.entidades.ManyToOne main
+INFORMAÇÕES: Log de informação
+mai. 15, 2023 3:15:53 PM br.com.entidades.ManyToOne main
+ADVERTÊNCIA: Log de Aviso
+mai. 15, 2023 3:15:53 PM br.com.entidades.ManyToOne main
+GRAVE: Log Severo
+mai. 15, 2023 3:15:55 PM br.com.entidades.ManyToOne main
+INFORMAÇÕES: 
+A entidade manager factory jpaMapeamento_n_1 foi criada!!
+mai. 15, 2023 9:16:18 PM br.com.aplicacao.ManyToOne main
+INFO: Log de informação
+mai. 15, 2023 9:16:18 PM br.com.aplicacao.ManyToOne main
+WARNING: Log de Aviso
+mai. 15, 2023 9:16:18 PM br.com.aplicacao.ManyToOne main
+SEVERE: Log Severo
+mai. 15, 2023 9:16:24 PM br.com.aplicacao.ManyToOne main
+INFO: 
+A entidade manager factory ManyToOne foi criada!!
+mai. 15, 2023 10:04:26 PM br.com.aplicacao.OneToOne main
+INFO: Log de informação
+mai. 15, 2023 10:04:26 PM br.com.aplicacao.OneToOne main
+WARNING: Log de Aviso
+mai. 15, 2023 10:04:26 PM br.com.aplicacao.OneToOne main
+SEVERE: Log Severo
+mai. 15, 2023 10:04:29 PM br.com.aplicacao.OneToOne main
+INFO: 
+A entidade manager factory ManyToOne foi criada!!
